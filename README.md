@@ -5,7 +5,7 @@ Intern: **Vishva Yadav** · B.E. Computer Engineering
 
 <a href="https://colab.research.google.com/github/VishvaYadav/codomax-module05-ai-agent/blob/main/Module05_AI_Agents.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-🌐 **Live app:** _add your Streamlit link here_
+🌐 **Live app:** https://vishva-ai-agent.streamlit.app
 
 An AI agent that **decides which tools to use**, calls real APIs and a database, reads the results, and keeps going until
 the task is done. It shows every step live.
